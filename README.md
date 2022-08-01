@@ -1,3 +1,4 @@
 # PHP-DynamicCRUDwith2table-Pagination
 
-Native PHP not use framework
+Native PHP not use framework use pagination
+
